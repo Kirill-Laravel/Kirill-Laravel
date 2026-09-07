@@ -17,7 +17,7 @@ Building clean architecture, production-ready features, and real e‑commerce pr
 
 ## 🛍️ E‑commerce Development Experience
 - Разрабатывал интернет‑магазины на **CodeIgniter** и **Laravel**
-- Создал интернет‑магазин **с нуля на CodeIgniter** на прошлой работе
+- Создал интернет‑магазин **с нуля на CodeIgniter**
 - Реализовал интеграцию с **1С**:
   - импорт товаров  
   - обновление остатков  
